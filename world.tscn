@@ -6,3 +6,9 @@
 
 [node name="main" parent="." instance=ExtResource("1_f3sb7")]
 position = Vector2(630, 307)
+
+[node name="Label" type="Label" parent="."]
+offset_right = 47.0
+offset_bottom = 30.0
+theme_override_font_sizes/font_size = 371
+text = "TEST"
